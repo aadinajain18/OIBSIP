@@ -1,0 +1,18 @@
+body{
+    background-color: #17202A;
+    text-align: center;
+    font-family: Verdana;
+    color: beige;
+    align-items: center;
+}
+
+img{
+    height: 800px;
+    width: 100%;
+}
+.biography{
+    font-family: Times New Roman;
+}
+a{
+    color:aliceblue;
+}
